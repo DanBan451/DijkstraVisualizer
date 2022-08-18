@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/.github.io/DijkstraVisualizer/static/css/main.5d4272f1.chunk.css",
+    "main.js": "/.github.io/DijkstraVisualizer/static/js/main.90b1505c.chunk.js",
+    "main.js.map": "/.github.io/DijkstraVisualizer/static/js/main.90b1505c.chunk.js.map",
+    "runtime-main.js": "/.github.io/DijkstraVisualizer/static/js/runtime-main.a6e25a24.js",
+    "runtime-main.js.map": "/.github.io/DijkstraVisualizer/static/js/runtime-main.a6e25a24.js.map",
+    "static/js/2.02f2e3ae.chunk.js": "/.github.io/DijkstraVisualizer/static/js/2.02f2e3ae.chunk.js",
+    "static/js/2.02f2e3ae.chunk.js.map": "/.github.io/DijkstraVisualizer/static/js/2.02f2e3ae.chunk.js.map",
+    "index.html": "/.github.io/DijkstraVisualizer/index.html",
+    "precache-manifest.08f1a161cc36df111a85e3ebcfed0cf2.js": "/.github.io/DijkstraVisualizer/precache-manifest.08f1a161cc36df111a85e3ebcfed0cf2.js",
+    "service-worker.js": "/.github.io/DijkstraVisualizer/service-worker.js",
+    "static/css/main.5d4272f1.chunk.css.map": "/.github.io/DijkstraVisualizer/static/css/main.5d4272f1.chunk.css.map"
+  }
+}
