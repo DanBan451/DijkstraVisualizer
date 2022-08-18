@@ -1,0 +1,21 @@
+.grid-wrapper {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  width: 100vw;
+  background-color: black;
+}
+
+.grid {
+  margin: auto;
+  background: linear-gradient(135deg, rgb(0, 55, 255), rgba(255, 255, 255, 0));
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-radius: 20px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 3%;
+}
+.grid > div {
+  display: inline-block;
+  display: flex;
+}

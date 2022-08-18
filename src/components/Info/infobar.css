@@ -1,0 +1,30 @@
+#info .wrapper {
+  height: 10vh;
+  display: flex;
+}
+#info ul {
+  list-style: none;
+  margin: auto 0;
+  display: flex;
+  justify-content: space-around;
+  width: 60%;
+}
+#info ul li {
+  display: flex;
+}
+#info ul li * {
+  margin: auto;
+  font-size: 1vw;
+}
+#info ul li svg {
+  width: 1.2vw;
+  height: 1.2vw;
+}
+#info ul li span {
+  margin-left: 1vw;
+  color: white;
+}
+#info > div > ul > li:nth-child(6) {
+  display: flex;
+  gap: 1vw;
+}

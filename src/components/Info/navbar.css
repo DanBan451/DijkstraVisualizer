@@ -1,0 +1,26 @@
+#nav .wrapper {
+  height: 5vh;
+  width: 100vw;
+}
+#nav ul {
+  height: 100%;
+  flex-basis: 100%;
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+  margin: 0;
+  padding-left: 0;
+  width: 30%;
+  padding-top: 1%;
+}
+#nav ul .main {
+  font-size: 1.5vw;
+}
+#nav ul li {
+  display: flex;
+}
+#nav ul li a {
+  text-decoration: none;
+  margin: auto;
+  color: white;
+}
