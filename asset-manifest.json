@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/.github.io/DijkstraVisualizer/static/css/main.5d4272f1.chunk.css",
-    "main.js": "/.github.io/DijkstraVisualizer/static/js/main.90b1505c.chunk.js",
-    "main.js.map": "/.github.io/DijkstraVisualizer/static/js/main.90b1505c.chunk.js.map",
-    "runtime-main.js": "/.github.io/DijkstraVisualizer/static/js/runtime-main.a6e25a24.js",
-    "runtime-main.js.map": "/.github.io/DijkstraVisualizer/static/js/runtime-main.a6e25a24.js.map",
-    "static/js/2.02f2e3ae.chunk.js": "/.github.io/DijkstraVisualizer/static/js/2.02f2e3ae.chunk.js",
-    "static/js/2.02f2e3ae.chunk.js.map": "/.github.io/DijkstraVisualizer/static/js/2.02f2e3ae.chunk.js.map",
-    "index.html": "/.github.io/DijkstraVisualizer/index.html",
-    "precache-manifest.08f1a161cc36df111a85e3ebcfed0cf2.js": "/.github.io/DijkstraVisualizer/precache-manifest.08f1a161cc36df111a85e3ebcfed0cf2.js",
-    "service-worker.js": "/.github.io/DijkstraVisualizer/service-worker.js",
-    "static/css/main.5d4272f1.chunk.css.map": "/.github.io/DijkstraVisualizer/static/css/main.5d4272f1.chunk.css.map"
+    "main.css": "/DijkstraVisualizer/static/css/main.5d4272f1.chunk.css",
+    "main.js": "/DijkstraVisualizer/static/js/main.cb8d2745.chunk.js",
+    "main.js.map": "/DijkstraVisualizer/static/js/main.cb8d2745.chunk.js.map",
+    "runtime-main.js": "/DijkstraVisualizer/static/js/runtime-main.5096700c.js",
+    "runtime-main.js.map": "/DijkstraVisualizer/static/js/runtime-main.5096700c.js.map",
+    "static/js/2.02f2e3ae.chunk.js": "/DijkstraVisualizer/static/js/2.02f2e3ae.chunk.js",
+    "static/js/2.02f2e3ae.chunk.js.map": "/DijkstraVisualizer/static/js/2.02f2e3ae.chunk.js.map",
+    "index.html": "/DijkstraVisualizer/index.html",
+    "precache-manifest.d6bd90e109e819b770b2a7ae9210dc97.js": "/DijkstraVisualizer/precache-manifest.d6bd90e109e819b770b2a7ae9210dc97.js",
+    "service-worker.js": "/DijkstraVisualizer/service-worker.js",
+    "static/css/main.5d4272f1.chunk.css.map": "/DijkstraVisualizer/static/css/main.5d4272f1.chunk.css.map"
   }
 }
